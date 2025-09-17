@@ -1,13 +1,13 @@
 
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import LeadMagnet from './components/LeadMagnet';
-import WhyChooseUs from './components/WhyChooseUs';
-import Testimonials from './components/Testimonials';
-import CaseStudy from './components/CaseStudy';
-import CTA from './components/CTA';
-import Footer from './components/Footer';
+import Header from './components/Header.tsx';
+import Hero from './components/Hero.tsx';
+import LeadMagnet from './components/LeadMagnet.tsx';
+import WhyChooseUs from './components/WhyChooseUs.tsx';
+import Testimonials from './components/Testimonials.tsx';
+import CaseStudy from './components/CaseStudy.tsx';
+import CTA from './components/CTA.tsx';
+import Footer from './components/Footer.tsx';
 
 const App: React.FC = () => {
   return (
